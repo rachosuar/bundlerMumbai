@@ -4,7 +4,7 @@ cd `dirname $0`
 
 GETH=geth
 GETHPORT=8545
-BUNDLERPORT=3000
+BUNDLERPORT=3001
 GETHPID=/tmp/aabundler.geth.pid
 BUNDLERPID=/tmp/aabundler.node.pid
 VERSION="aabundler-js-0.1"
