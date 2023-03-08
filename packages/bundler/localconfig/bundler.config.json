@@ -1,13 +1,13 @@
 {
   "gasFactor": "1",
   "port": "3001",
-  "network": "goerli",
-  "entryPoint": "0x0576a174D229E3cFA37253523E645A78A0C91B57",
-  "beneficiary": "0xd21934eD8eAf27a67f0A70042Af50A1D6d195E81",
-  "minBalance": "1",
+  "network": "https://delicate-delicate-forest.matic-testnet.discover.quiknode.pro/e9877ddf016c7fabd7e5bb045455d9aab0a09eaa/",
+  "entryPoint": "0x0576a174d229e3cfa37253523e645a78a0c91b57",
+  "beneficiary": "0xA145cB9747402f027282893330f2f5e34E86A699",
+  "minBalance": "0.01",
   "mnemonic": "./localconfig/mnemonic.txt",
   "maxBundleGas": 5e6,
-  "minStake": "1",
+  "minStake": "0.01",
   "minUnstakeDelay": 0,
   "autoBundleInterval": 3,
   "autoBundleMempoolSize": 10
