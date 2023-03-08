@@ -1,13 +1,13 @@
 {
   "gasFactor": "1",
   "port": "3000",
-  "network": "mumbai",
+  "network": "https://delicate-delicate-forest.matic-testnet.discover.quiknode.pro/e9877ddf016c7fabd7e5bb045455d9aab0a09eaa/",
   "entryPoint": "0x67B2E1091b18ee967339d8A59bAb7b9423B45947",
-  "beneficiary": "0xd21934eD8eAf27a67f0A70042Af50A1D6d195E81",
-  "minBalance": "1",
+  "beneficiary": "0x474220E3aE3B3b31bba681ea8ECBBd8a535D0Bb7",
+  "minBalance": "0.01",
   "mnemonic": "./localconfig/mnemonic.txt",
   "maxBundleGas": 5e6,
-  "minStake": "1",
+  "minStake": "0.01",
   "minUnstakeDelay": 0,
   "autoBundleInterval": 3,
   "autoBundleMempoolSize": 10
