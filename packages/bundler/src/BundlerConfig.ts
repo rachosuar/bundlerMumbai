@@ -45,7 +45,7 @@ export const BundlerConfigShape = {
 // TODO: consider if we want any default fields at all
 // TODO: implement merging config (args -> config.js -> default) and runtime shape validation
 export const bundlerConfigDefault: Partial<BundlerConfig> = {
-  port: "8000",
+  port: "3000",
   entryPoint: "0x0576a174D229E3cFA37253523E645A78A0C91B57",
   unsafe: true,
   conditionalRpc: false,
