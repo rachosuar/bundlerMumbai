@@ -1,7 +1,7 @@
 {
   "gasFactor": "1",
   "port": "3000",
-  "network": "https://polygon-mainnet.g.alchemy.com/v2/WZq2QqE0aP_rpAiCZ0XHwYQUEyf5kO4V/",
+  "network": "https://fragrant-long-voice.matic.discover.quiknode.pro/cc3730387d7f19cd25b071e079b2cbbdd095dd3b/",
   "entryPoint": "0x0576a174d229e3cfa37253523e645a78a0c91b57",
   "beneficiary": "0x83BD3A704Cc84e7f10ffed41Dd38E6Ab396aA8b9",
   "minBalance": "0.01",
