@@ -6,7 +6,7 @@
   "beneficiary": "0x83BD3A704Cc84e7f10ffed41Dd38E6Ab396aA8b9",
   "minBalance": "0.01",
   "mnemonic": "./localconfig/mnemonic.txt",
-  "maxBundleGas": 5e6,
+  "maxBundleGas": 5e60,
   "minStake": "0.01",
   "minUnstakeDelay": 0,
   "autoBundleInterval": 3,

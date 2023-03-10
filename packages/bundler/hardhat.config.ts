@@ -42,6 +42,7 @@ const config: HardhatUserConfig = {
     goerli: getInfuraNetwork("goerli"),
     polygon: {
       url: "https://polygon-mainnet.g.alchemy.com/v2/WZq2QqE0aP_rpAiCZ0XHwYQUEyf5kO4V",
+      gasPrice: 35000000000,
     },
     mumbai: {
       url: "https://delicate-delicate-forest.matic-testnet.discover.quiknode.pro/e9877ddf016c7fabd7e5bb045455d9aab0a09eaa/",
